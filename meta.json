@@ -1,0 +1,11 @@
+{
+  "name": "Bugzy",
+  "symbol": "BUGZY",
+  "description": "Bugzy is a cheeky rabbit meme coin hopping through Solana with style.",
+  "image": "https://raw.githubusercontent.com/Spongycoin/foksy/main/Bygzy.png",
+  "extensions": {
+    "website": "https://x.com/bugzycoin",
+    "twitter": "https://x.com/bugzycoin",
+    "telegram": "https://t.me/bugzycoin"
+  }
+}
